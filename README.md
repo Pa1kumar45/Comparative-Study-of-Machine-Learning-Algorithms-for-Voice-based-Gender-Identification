@@ -44,3 +44,7 @@ effectiveness of self-supervised learning strategies for tasks such
 as automatic speech recognition, and a deep learning architecture
 that merges attentional and residual convolutional networks for
 age and gender classification.
+
+Comparative Study of Machine Learning
+Algorithms for Voice based Gender Identification.ipynb file contains all our work
+Team.12_SaiPavan_PavanTeja_Udayram_PavanKumar.pdf contains our paper submitted for Data Analytics Course Project
